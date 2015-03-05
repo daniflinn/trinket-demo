@@ -1,2 +1,3 @@
 I made this to test errors.
 This is very confusing. 
+I don’t understand why we shouldn’t just do everything online.
