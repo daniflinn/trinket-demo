@@ -1,3 +1,10 @@
 I made this to test errors.
+<<<<<<< HEAD
+=======
+steak and eggs
+>>>>>>> origin/master
+
+
+
 This is very confusing. 
 I don’t understand why we shouldn’t just do everything online.
