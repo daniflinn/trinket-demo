@@ -1,8 +1,7 @@
 I made this to test errors.
-<<<<<<< HEAD
-=======
+
 steak and eggs
->>>>>>> origin/master
+
 
 
 
